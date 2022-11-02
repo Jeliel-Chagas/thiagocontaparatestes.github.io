@@ -64,10 +64,44 @@ h2{
     text-decoration: none;
     color: rgb(54,77,204);
     font-weight: bold;
+    box-shadow: 0 0 20px white;
 }
 
 .links-list li a span{
     color: grey;
     display: block;
     margin-top: 10px;
+    font-size:14px;
 }
+
+.acesso li a {
+    display: block;
+    background:white;
+    padding:15px 20px;
+    border-radius:8px ;
+    text-decoration: none;
+    color: rgb(0 0 0 );
+    font-weight: bold;
+    
+}
+
+.acesso{
+    list-style: none;
+}
+
+.acesso li a{
+    margin: 10px 20px;
+}
+
+.acesso li a span{
+    color: grey;
+    display: block;
+    margin-top: 10px;
+    font-size: 14px;
+}
+
+.acesso{
+    margin-top: 30px;
+    
+}
+
